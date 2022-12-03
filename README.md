@@ -1,3 +1,3 @@
-# RedStone Showroom
+# RedStone Evmos Showroom
 
-Simple app which demonstrate redstone integration with EVM chains.
+Simple app which demonstrate redstone integration with the Evmos chains.
